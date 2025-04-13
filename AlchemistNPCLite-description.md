@@ -7,9 +7,9 @@
 建筑师将在已经入驻至少三个NPC后入驻
 音乐家将在击败骷髅王后入驻
 
-本Mod支持[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2909886416&searchtext=]Thorium 瑟银[/url]、[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072&searchtext=]Calamity 灾厄[/url]、[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2893332653&searchtext=]Mod of Redemption 救赎[/url]、[/url=https://steamcommunity.com/sharedfiles/filedetails/?id=2687866031&searchtext=]Census - Town NPC Checklist 人口普查 - 城镇NPC列表[/url]和[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2828041071]imkSushi's Mod imkSushi的Mod[/url]
+本Mod支持[Thorium 瑟银](https://steamcommunity.com/sharedfiles/filedetails/?id=2909886416&searchtext=)、[Calamity 灾厄](https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072&searchtext=)、[Mod of Redemption 救赎](https://steamcommunity.com/sharedfiles/filedetails/?id=2893332653&searchtext=)、[Census - Town NPC Checklist 人口普查 - 城镇NPC列表](https://steamcommunity.com/sharedfiles/filedetails/?id=2687866031&searchtext=)和[imkSushi's Mod imkSushi的Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2828041071)
 
-Mod的[url=https://discord.gg/WGKyKun]Discord服务器[/url]
+Mod的[Discord服务器](https://discord.gg/WGKyKun)
 v1.9.7
 -虞悖的中文本地化修复
 -俄语本地化修复
@@ -52,7 +52,7 @@ v1.9.2
 -Added War Table to Jeweler's arena shop. Available after beating T1 of Old One's Army.
 -Added resprites for Horrying Skull, Dopamine, Beach, Temple, Jungle, Dungeon Teleporter, Greater Dangersense, Sunshine, Titan Skin, Invincibility, Traps, Underworld Teleporter, Fortitude and Excavation potions by GoldYosh and thyreo.
 -Spooky Wood/light sources are now available in Architect's shops only after beating Pumpking.
--With Calamity mod, combinations with Ironskin potion now giving bonus defense according to progression.
+-With Calamity mod, chttpsombinations with Ironskin potion now giving bonus defense according to progression.
 -Fixed an issue with overusing buff potions from piggy bank using Alchemist Charm t2+ upon reaching over 22 buffs.
 -Fixed Fishing Combination recipe.
 -Fixed Spirit Combination being sold.
@@ -92,8 +92,8 @@ v1.8.19
 v1.8.18
 -Fixed excessive damage reduction bonus of Battle Combination (thanks to Inactive).
 v1.8.17
--添加了对[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2893332653&searchtext=]Mod of Redemption 救赎[/url]的支持（感谢Rockman Zeta）
--重新适配[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2909886416&searchtext=]Thorium 瑟银[/url]（thanks to b2mauler）
+-添加了对[Mod of Redemption 救赎](https://steamcommunity.com/sharedfiles/filedetails/?id=2893332653&searchtext=)的支持（感谢Rockman Zeta）
+-重新适配[Thorium 瑟银](https://steamcommunity.com/sharedfiles/filedetails/?id=2909886416&searchtext=)（thanks to b2mauler）
 -Removed "removed" potions from Calamity Combination.
 -Removed Boom Box as now Music Boxes can work even from vanity accessory slots.
 -Removed additional tooltips on Treasure Bags as now they are properly named.
@@ -110,10 +110,10 @@ v1.8.15
 -允许困难模式下工匠在「移动/杂项」选项中售卖袖珍镜
 v1.8.14
 -允许操作员售卖独眼巨鹿的宝藏袋
--重新在1.4适配[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072&searchtext=]Calamity 灾厄[/url]
--适配[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072&searchtext=]Calamity 灾厄[/url]的Boss宝藏袋价格
--允许工匠售卖[url=https://terraria.wiki.gg/zh/wiki/%E6%BD%9C%E6%B0%B4%E5%A4%B4%E7%9B%94]潜水头盔[/url]
+-重新在1.4适配[Calamity 灾厄](https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072&searchtext=)
+-适配[Calamity 灾厄](https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072&searchtext=)的Boss宝藏袋价格
+-允许工匠售卖潜水头盔
 -更新新的配方
 
-最新更改可以本Mod的[url=https://discord.gg/WGKyKun]Discord服务器[/url]中找到
-该页面中文本地化由[url=https://steamcommunity.com/profiles/76561199351410322]Yu Bell 虞悖[/url]提供，反馈请至Q群[url=https://qm.qq.com/q/5wdAQBTpHa]909428503[/url]
+最新更改可以本Mod的[Discord服务器](https://discord.gg/WGKyKun)中找到
+该页面中文本地化由[Yu Bell 虞悖](https://steamcommunity.com/profiles/76561199351410322)提供，反馈请至Q群[909428503](https://qm.qq.com/q/5wdAQBTpHa)
