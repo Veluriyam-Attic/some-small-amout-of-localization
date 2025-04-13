@@ -11,10 +11,10 @@
 
 本Mod的[Discord服务器](https://discord.gg/WGKyKun)<br>
 v1.9.8<br>
--Added Shards of Atheria support by Rockman Zeta.<br>
--Added German localization by Cracky.<br>
--Updated Chinese localization by 虞悖.<br>
--Now Pumpkin blocks cost 2 silver 50 copper.<br>
+-由Rockman Zeta添加了对Shards of Atheria的支持<br>
+-由Cracky添加了德语本地化<br>
+-虞悖的中文本地化修复<br>
+-现在南瓜块的价格为2银50铜<br>
 v1.9.7<br>
 -虞悖的中文本地化修复<br>
 -俄语本地化修复<br>
