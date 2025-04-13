@@ -1,0 +1,17 @@
+本Mod新添加了7名售卖药水、材料和其他物品的NPC（炼金师、药剂师、工匠、珠宝师、年轻药剂师、操作员、建筑师和音乐家）
+年轻药剂师将售卖新的组合药剂包
+
+炼金师、珠宝师、工匠和药剂师的入驻条件是击败克苏鲁之眼
+困难模式下炼金师、药剂师均入驻后年轻的药剂师也将入驻
+操作员的入驻条件是击败世界吞噬者或者克苏鲁之脑
+建筑师将在已经入驻至少三个NPC后入驻
+音乐家将在击败骷髅王后入驻
+
+本Mod支持[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2909886416&searchtext=]Thorium 瑟银[/url]、[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072&searchtext=]Calamity 灾厄[/url]、[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2893332653&searchtext=]Mod of Redemption 救赎[/url]、[/url=https://steamcommunity.com/sharedfiles/filedetails/?id=2687866031&searchtext=]Census - Town NPC Checklist 人口普查 - 城镇NPC列表[/url]、[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2828041071]imkSushi's Mod imkSushi的Mod[/url]和[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2700385945]Atheria[/url]
+
+Mod的[url=https://discord.gg/WGKyKun]Discord服务器[/url]
+
+由于篇幅，中文更改请在[url=https://github.com/Veluriyam-Attic/some-small-amout-of-localization/blob/main/AlchemistNPCLite/changelog.md]玲珑阁的GitHub[/url]进行查看
+
+可以本Mod的最新更改[url=https://discord.gg/WGKyKun]Discord服务器[/url]中找到
+该页面中文本地化以及更新日志由[url=https://steamcommunity.com/profiles/76561199351410322]虞悖[/url]提供，反馈请至Q群[url=https://qm.qq.com/q/5wdAQBTpHa]909428503[/url]
