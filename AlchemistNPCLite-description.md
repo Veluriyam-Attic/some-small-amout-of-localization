@@ -9,7 +9,7 @@
 
 本Mod支持[Thorium 瑟银](https://steamcommunity.com/sharedfiles/filedetails/?id=2909886416&searchtext=)、[Calamity 灾厄](https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072&searchtext=)、[Mod of Redemption 救赎](https://steamcommunity.com/sharedfiles/filedetails/?id=2893332653&searchtext=)、[Census - Town NPC Checklist 人口普查 - 城镇NPC列表](https://steamcommunity.com/sharedfiles/filedetails/?id=2687866031&searchtext=)和[imkSushi's Mod imkSushi的Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2828041071)<br>
 
-Mod的[Discord服务器](https://discord.gg/WGKyKun)<br>
+本Mod的[Discord服务器](https://discord.gg/WGKyKun)<br>
 v1.9.8<br>
 -Added Shards of Atheria support by Rockman Zeta.<br>
 -Added German localization by Cracky.<br>
