@@ -99,7 +99,7 @@ v1.8.18<br>
 v1.8.17<br>
 -添加了对[Mod of Redemption 救赎](https://steamcommunity.com/sharedfiles/filedetails/?id=2893332653&searchtext=)的支持（感谢Rockman Zeta）<br>
 -重新适配[Thorium 瑟银](https://steamcommunity.com/sharedfiles/filedetails/?id=2909886416&searchtext=)（thanks to b2mauler）<br>
--Removed "removed" potions from Calamity Combination.<br>
+-移除灾厄药剂包中已经移除的药水的效果<br>
 -Removed Boom Box as now Music Boxes can work even from vanity accessory slots.<br>
 -Removed additional tooltips on Treasure Bags as now they are properly named.<br>
 -Fixed some buffs and combinations which were not working (f.e. Lifeforce, modded crit bonuses, Ninja pot).<br>
