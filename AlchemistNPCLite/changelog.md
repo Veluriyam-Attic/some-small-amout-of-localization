@@ -87,43 +87,42 @@ Made by thyreo and GoldYosh.<br>
 -Added Biome Sight potion to Brewer's shop.<br>
 TODO: Implement proper Thorium and MoR support to all shops.<br>
 #### v1.8.20<br>
--Added config options for removing non-vanilla potions and items from mod (thanks to NoLongerLucky) (currently not working).<br>
--Now Red's Potion can be bought from Alchemist if world seed is "for the worthy" and world state is hardmode.<br>
--Readded World Warper/Modified World Warper. Available in Operator's shop upon entering hardmode/after beating Moon Lord.<br>
--Readded Simulation Control Unit. Available in Operator's shop upon entering hardmode.<br>
--Fixed Alchemist Charms not giving bonus duration to potions in piggy bank (thanks to benl9).<br>
+-添加了配置选项，用于移除非草药药水和物品（暂时无法生效）（感谢NoLongerLucky）<br>
+-现在在困难模式的“for the worthy”世界中炼金师会出售红药水<br>
+-添加了世界传送装置/改良世界传送装置，由操作员在进入困难模式/打败月亮领主后出售<br>
+-添加了模拟控制单元，由操作员在进入困难模式后出售<br>
+-修复了炼金师护身符在小猪存钱罐中无法降低药水价格的问题（感谢benl9）<br>
 #### v1.8.19<br>
--Removed even more "removed" potions.<br>
--Returned some more stuff from Thorium to shops.<br>
--Fixed Thorium Combination breaking access to others.<br>
--Fixed Thorium mod references from breaking some stuff.<br>
--Now Life Crystals and Life Fruits can be bought from Jeweler while Skeletron/Golem is defeated (were available in MP only before).<br>
--Moved Flask of Crumbling to Flasks shop.<br>
+-移除了更多“已移除”的药水<br>
+-将更多瑟银物品添加至商店<br>
+-修复了瑟银联动内容会导致部分物品损坏的问题<br>
+-现在珠宝商会在打败骷髅王/石巨人之后出售生命水晶/生命果.<br>
+-将粉碎瓶移动至烧瓶商店<br>
 #### v1.8.18<br>
--Fixed excessive damage reduction bonus of Battle Combination (thanks to Inactive).<br>
+-修复了战斗药剂包伤害减免过高的问题（感谢Inactive）<br>
 #### v1.8.17<br>
--添加了对[Mod of Redemption 救赎](https://steamcommunity.com/sharedfiles/filedetails/?id=2893332653&searchtext=)的支持（感谢Rockman Zeta）<br>
--重新适配[Thorium 瑟银](https://steamcommunity.com/sharedfiles/filedetails/?id=2909886416&searchtext=)（thanks to b2mauler）<br>
+-添加了对Mod of Redemption 救赎的支持（感谢Rockman Zeta）<br>
+-重新适配瑟银Mod（感谢b2mauler）<br>
 -移除灾厄药剂包中已经移除的药水的效果<br>
--Removed Boom Box as now Music Boxes can work even from vanity accessory slots.<br>
--Removed additional tooltips on Treasure Bags as now they are properly named.<br>
--Fixed some buffs and combinations which were not working (f.e. Lifeforce, modded crit bonuses, Ninja pot).<br>
+-移除了Boom音乐盒，因为现在音乐盒可以在时装栏中工作<br>
+-删除了宝藏袋的额外描述，现在宝藏袋被正确命名了<br>
+-修复了一些buff和药剂包不生效的问题（例如生命力、模组添加的暴击增幅、忍者药水）<br>
 #### v1.8.16<br>
--修复烧瓶如果在猪猪存钱罐的药水前生效则会取消药水增益的问题<br>
--修复探索者药剂包的配方<br>
+-修复了烧瓶如果在猪猪存钱罐的药水前生效则会取消药水增益的问题<br>
+-修复了探索者药剂包的配方<br>
 -添加了修改泥块/雪泥块、沙漠化石价格的Mod配置<br>
 #### v1.8.15<br>
--修复炼金师2级护身符不使用猪猪存钱罐中药水的问题<br>
--修复如果联动Mod未加载应有的售卖位置为空的问题<br>
--提高一些物品的价格以平衡<br>
--添加一个新的Buff物品：终极蛋糕. 可以在困难模式下从珠宝师的战斗场地商店中购买东西<br>
+-修复了炼金师2级护身符不使用猪猪存钱罐中药水的问题<br>
+-修复了如果联动Mod未加载应有的售卖位置为空的问题<br>
+-提高了一些物品的价格以平衡<br>
+-添加了一个新的Buff物品：终极蛋糕. 可以在困难模式下从珠宝师的战斗场地商店中购买东西<br>
 -允许困难模式下工匠在「移动/杂项」选项中售卖袖珍镜<br>
 #### v1.8.14<br>
 -允许操作员售卖独眼巨鹿的宝藏袋<br>
--重新在1.4适配[Calamity 灾厄](https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072&searchtext=)<br>
--适配[Calamity 灾厄](https://steamcommunity.com/sharedfiles/filedetails/?id=2824688072&searchtext=)的Boss宝藏袋价格<br>
+-重新在1.4适配灾厄<br>
+-适配了灾厄的Boss宝藏袋价格<br>
 -允许工匠售卖潜水头盔<br>
--更新新的配方<br>
+-更新了新的配方<br>
 
 最新更改可以本Mod的[Discord服务器](https://discord.gg/WGKyKun)中找到<br>
 该页面中文本地化由[Yu Bell 虞悖](https://steamcommunity.com/profiles/76561199351410322)提供，反馈请至Q群[909428503](https://qm.qq.com/q/5wdAQBTpHa)<br>
