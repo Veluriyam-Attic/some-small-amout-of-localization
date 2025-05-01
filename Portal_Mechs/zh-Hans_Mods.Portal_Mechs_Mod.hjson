@@ -1,384 +1,386 @@
 Buffs: {
 	GraniteMinionBuff: {
-		Description: The Granite Youngling will fight for you
-		DisplayName: Granite Youngling
+		Description: 召唤幼年花岗岩礁蟹为你而战
+		DisplayName: 花岗岩礁蟹
 	}
 
 	GraniteWhipDebuff: {
-		DisplayName: Granite Whip
+		DisplayName: 花岗岩礁蟹腿
 		Description: Mods.Portal_Mechs_Mod.Buffs.GraniteWhipDebuff.Description
 	}
 
 	MarbleJavelinDebuff: {
-		DisplayName: Impaled
-		Description: You are taking constant damage
+		DisplayName: 铭挂
+		Description: 你将持续收到伤害
 	}
 
 	PhantomMinionBuff: {
-		DisplayName: Phantom
-		Description: The Phantom will fight for you
+		DisplayName: 幽灵
+		Description: 召唤一个幽灵为你而战
 	}
 
 	AetherMinionBuff: {
-		DisplayName: Aether Wyrm
-		Description: The Aether Wyrm will fight for you
+		DisplayName: 以太之龙
+		Description: 以太之龙将为你而战
 	}
 
 	CultistMinionBuff: {
-		DisplayName: Sunplate Archer
-		Description: The Sunplate Archer will fight for you
+		DisplayName: 太阳能板射手
+		Description: 太阳能板射手将为你而战
 	}
 
 	CultistMinionDebuff: {
-		DisplayName: Impaled
-		Description: You are taking constant damage
+		DisplayName: 铭挂
+		Description: 你将持续收到伤害
 	}
 
 	EctoMinionBuff: {
-		DisplayName: Ecto Mace
-		Description: The Ecto Mace will fight for you
+		DisplayName: 亡魂毒气
+		Description: 亡魂毒气为你而战
 	}
 
 	EctoFrenzy: {
 		Description: Mods.Portal_Mechs_Mod.Buffs.EctoFrenzy.Description
-		DisplayName: Ecto Frenzy
+		DisplayName: 亡魂暴乱
 	}
 }
 
 Items: {
 	EctoBane: {
 		Tooltip: ""
-		DisplayName: Desolate Whirlpool
+		DisplayName: 荒凉漩涡
 	}
 
 	GraniteClaw: {
 		Tooltip: ""
-		DisplayName: Granite Claw
+		DisplayName: 花岗岩礁蟹爪
 	}
 
 	GraniteCarapace: {
 		Tooltip: ""
-		DisplayName: Granite Carapace
+		DisplayName: 花岗岩礁蟹甲壳
 	}
 
 	EctoSteelBar: {
 		Tooltip: ""
-		DisplayName: Cursed Bar
+		DisplayName: 诅咒锭
 	}
 
 	GraniteCrabSummon: {
-		Tooltip: Summons the Granite Crab
-		DisplayName: Granite Pearl
+		Tooltip: 召唤花岗岩礁蟹
+		DisplayName: 花岗岩珍珠
 	}
 
 	EctoGuardianSummon: {
-		Tooltip: Summons the Ecto Guardian
-		DisplayName: Cursed Dungeon Key
+		Tooltip: 召唤亡魂守护者
+		DisplayName: 诅咒地牢之匙
 	}
 
 	EctoFlail: {
-		DisplayName: Ecto Flail
-		Tooltip: This weapon was removed from normal gameplay and can only be accessed via cheats. Please do not use this in serious gameplay
+		DisplayName: 亡灵连枷
+		Tooltip: 
+			'''
+			本武器已从正常游戏中移除
+			只能通过作弊手段获得
+			请勿在正常游玩中使用
+			'''
 	}
 
 	MarbleFortressSummon: {
-		DisplayName: Marble Statuette
-		Tooltip: Summons the Marble Fortress
+		DisplayName: 大理石雕像
+		Tooltip: 召唤大理石宏殿
 	}
 
 	GraniteWhip: {
-		DisplayName: Crab Leg
+		DisplayName: 礁蟹腿
 		Tooltip:
 			'''
-			1 summon tag damage
-			Your summons will focus struck enemies
+			1点召唤标记伤害
+			你的召唤物会集中攻击被击中的敌人
 			'''
 	}
 
 	GraniteStaff: {
-		DisplayName: Granite Staff
-		Tooltip: Summons a Granite Youngling to fight for you
+		DisplayName: 花岗岩权杖
+		Tooltip: 召唤一个幼年花岗岩礁蟹为你而战
 	}
 
 	MarbleBrick: {
-		DisplayName: Enchanted Marble
+		DisplayName: 强化大理石
 		Tooltip: ""
 	}
 
 	MarbleJavelin: {
-		DisplayName: Enchanted Javelin
+		DisplayName: 强化标枪
 		Tooltip: ""
 	}
 
 	MarbleFireSword: {
-		DisplayName: East Tower
+		DisplayName: 东塔剑
 		Tooltip: ""
 	}
 
 	MarbleFrostStaff: {
-		DisplayName: West Tower
+		DisplayName: 西塔剑
 		Tooltip: ""
 	}
 
 	DesertPhantomSummon: {
-		DisplayName: Cursed Relic
-		Tooltip: Summons the Desert Phantom
+		DisplayName: 诅咒遗物
+		Tooltip: 召唤沙漠幻影
 	}
 
 	GraniteYoyo: {
-		DisplayName: Crab Eye
+		DisplayName: 礁蟹眼
 		Tooltip: ""
 	}
 
 	EndlessShimmerPotion: {
-		DisplayName: Endless Shimmer Potion
+		DisplayName: 无尽微光药水
 		Tooltip:
 			'''
-			Reusable
-			Drink to become insubstantial
-			Expert
+			不消耗
+			饮下以变得虚幻
+			专家
 			'''
 	}
 
 	EndlessPanicPotion: {
-		DisplayName: Endless Panic Potion
+		DisplayName: 无尽恐慌药剂
 		Tooltip:
 			'''
-			Reusable
-			Drink to induce panic
-			Expert
+			不消耗
+			饮下以制造恐慌
+			专家
 			'''
 	}
 
 	EndlessBeerPotion: {
-		DisplayName: Endless Beer Potion
+		DisplayName: 无尽啤酒药水
 		Tooltip:
 			'''
-			Reusable
-			The world's greatest treasure
-			Expert
+			不消耗
+			世界上最伟大的宝藏
+			专家
 			'''
 	}
 
 	AetherEssence: {
-		DisplayName: Aether Essence
+		DisplayName: 以太精华
 		Tooltip: ""
 	}
 
 	AetherDragonSummon: {
-		DisplayName: Aether Lure
-		Tooltip: Summons the Aether Wyrm
+		DisplayName: 以太饵料
+		Tooltip: 召唤以太之龙
 	}
 
 	PharaohsEye: {
-		DisplayName: Pharaoh's Eye
+		DisplayName: 法老之曈
 		Tooltip: ""
 	}
 
 	SpiritFlame: {
-		DisplayName: Spirit Essence
+		DisplayName: 心灵本质
 		Tooltip: ""
 	}
 
 	ArchitectsTome: {
-		DisplayName: Architect's Tome
+		DisplayName: 建筑师卷宗
 		Tooltip: ""
 	}
 
 	PharaohsStaff: {
-		DisplayName: Pharaoh's Staff
+		DisplayName: 法老权杖
 		Tooltip:
 			'''
-				Summons an invisible Phantom to fight for you
-				Phantoms will create Spirit Flames over a large area to chase down nearby enemies
+			召唤一个无形的幽灵为你而战
+			幽灵会在大片区域的上空制造灵焰追击附近的敌人
 			'''
 	}
 
 	AetherScale: {
-		DisplayName: Aether Scale
+		DisplayName: 以太秤
 		Tooltip: ""
 	}
 
 	AetherEdge: {
-		DisplayName: Aether Edge
+		DisplayName: 以太边缘
 		Tooltip: ""
 	}
 
 	AetherBow: {
-		DisplayName: Aether Bow
-		Tooltip: Shatters wooden arrows into beams of radiant light
+		DisplayName: 以太弓
+		Tooltip: 将木箭粉碎成辉光束
 	}
 
 	AetherStaff: {
-		DisplayName: Aether Staff
-		Tooltip: Summons an Aether Wyrm to fight for you
+		DisplayName: 以太权杖
+		Tooltip: 召唤一个以太之龙为你而战
 	}
 
 	SunplateVoyagerSummon: {
-		DisplayName: Sunplate Medallion
-		Tooltip: Summons the Sunplate Privateer
+		DisplayName: 太阳能版奖章
+		Tooltip: 召唤太阳能版私掠船
 	}
 
 	SunplateCaptainMask: {
-		DisplayName: Sunplate Captain Mask
+		DisplayName: 太阳能板船长帽
 		Tooltip: ""
 	}
 
 	SunplateDoubloon: {
-		DisplayName: Solar Essence
+		DisplayName: 太阳能精华
 		Tooltip: ""
 	}
 
 	CollapsingStar: {
-		DisplayName: Collapsing Star
+		DisplayName: 坍缩星
 		Tooltip: ""
 	}
 
 	CultistStaff: {
-		DisplayName: Captain's Staff
-		Tooltip: Summons a Sunplate Archer to fight for you
+		DisplayName: 船长手杖
+		Tooltip: 召唤太阳版射手为你而战
 	}
 
 	SunplateCannonBall: {
-		DisplayName: Cannonball and Chain
+		DisplayName: 炮弹和链
 		Tooltip: ""
 	}
 
 	EctoMaceStaff: {
-		DisplayName: Dungeon Lord's Staff
-		Tooltip: Summons an Ecto Mace to fight for you
+		DisplayName: 地牢之主权杖
+		Tooltip: 召唤亡魂毒气为你而战
 	}
 
 	CryptGun: {
-		DisplayName: Crypt Gun
-		Tooltip: Converts ordinary bullets into spectral rounds
+		DisplayName: 地窖枪
+		Tooltip: 将普通子弹转变为灵魂
 	}
 
 	CursedModeSummon: {
-		DisplayName: Forgotten Seal
+		DisplayName: 遗忘图章
 		Tooltip:
 			'''
-			Enables Cursed Mode, empowering all pre-Hardmode bosses, and most Hardmode bosses (Excluding Golem, Duke Fishron, Lunatic Cultist and 
-			Moon Lord. Reworks for them will be added later.) by giving them completely new attacks and behaviors.
-			(May also add new Cursed Mode exclusive enemies.)
-			Additionally, bosses affected by Cursed Mode will drop two treasure bags when defeated.
-			Dying to a Cursed Mode boss will result in its respective summoning item being returned to you.
-			Cannot be enabled on Classic difficulty.
-			ONCE ACTIVATED, CURSED MODE CANNOT BE DISABLED AND WILL CONTINUE TO AFFECT YOUR WORLD UNTIL THE MOD IS UNINSTALLED.
+			启用诅咒模式，增强所有困难模式前的Boss和大多数困难模式的Boss（除了石巨人，猪龙鱼公爵，拜月教邪教徒和月亮领主. 后续会添加对它们的重做）
+			（也可能添加新的诅咒模式专属敌怪）
+			另外，诅咒模式更改的Boss被击败时会掉落两个宝藏袋
+			被诅咒模式下的Boss击杀会返还召唤物
+			不能在经典难度下开启
+			一旦开启，不可关闭. 会一直影响你除非禁用掉本Mod	
+			（译者注：因为沟通中的一些原因译文可能出现极其多的错误，反馈请加我QQ3412615165）
 			'''
 	}
 
 	BetaCursedModeSummon: {
-		DisplayName: Inverted Seal
+		DisplayName: 逆转图章
 		Tooltip:
 			'''
-			Enables Cursed Mode. Additionally, activates beta reworks for certain Hardmode bosses.
-			Note that most of these reworks were created long before it was decided that Cursed Mode would be a serious project.
-			The creator will not be responsible for any physical or mental trauma caused by these reworks.
-			Enable at your own risk.
-			(Queen Slime and Empress of Light not included.)
-			(Hardmode bosses won't drop two treasure bags because frankly I don't give a darn.)
+			启用诅咒模式，额外启用对困难模式Boss的测试性重做
+			注意：大多数重做是在决定诅咒模式作为一个正式项目之前的
+			创作者将不会对由这些重做内容造成的任何身体或精神创伤负责
+			请自行承担风险
+			（除了史莱姆皇后和光之女皇）
+			（困难模式的Boss不会掉落两个宝藏袋因为说真的我并不在乎）
 			'''
 	}
 
 	AbsoluteRadianceSummon: {
-		DisplayName: Dream Core
+		DisplayName: 空梦内核
 		Tooltip:
 			'''
-			Reusable
-			Unleashes the true power of the Forgotten Light
+			不消耗
+			释放被遗忘之光的真正力量
 			'''
 	}
 
 	SolarQuadrupletsSummon: {
-		DisplayName: Solar Eye
-		Tooltip: Summons The Quadruplets
+		DisplayName: 日耀之曈
+		Tooltip: 召唤四宙之眼
 	}
 
 	NebulaQuadrupletsSummon: {
-		DisplayName: Nebula Eye
-		Tooltip: Summons The Quadruplets
+		DisplayName: 星云之曈
+		Tooltip: 召唤四宙之眼
 	}
 
 	StardustQuadrupletsSummon: {
-		DisplayName: Stardust Eye
-		Tooltip: Summons The Quadruplets
+		DisplayName: 星尘之曈
+		Tooltip: 召唤四宙之眼
 	}
 
 	VortexQuadrupletsSummon: {
-		DisplayName: Vortex Eye
-		Tooltip: Summons The Quadruplets
+		DisplayName: 星旋之曈
+		Tooltip: 召唤四宙之眼
 	}
 
 	UltimateQuadrupletsSummon: {
-		DisplayName: Forgotten Eye
+		DisplayName: 遗忘之曈
 		Tooltip:
 			'''
-			Reusable
-			Why do you need a reason?
+		    不消耗
+		    你为什么需要一个理由?
 			'''
 	}
 
 	FrostbittenScepter: {
-		DisplayName: Frostbitten Scepter
-		Tooltip: Fires 4 spirits at your cursor.
+		DisplayName: 霜冻权杖
+		Tooltip: 向光标出发射四个灵魂
 	}
 
 	ArcticVisage: {
-		DisplayName: Arctic Visage
+		DisplayName: 极地面孔
 		Tooltip:
 			'''
-			Shoots a slow homing projectile, dealing 
-			high damage. Cannot fire another shot
-			during this time.
+			发射一个缓慢追踪的弹幕并造成大量伤害
+			在此期间不能在此射击
 			'''
 	}
 
 	GlacialFortitude: {
-		DisplayName: Glacial Fortitude
+		DisplayName: 冰川之坚韧
 		Tooltip:
 			'''
-			Getting hit by any non-projectile
-			attack will cause you to fire back
-			instantly with a projectile, dealing
-			45 ranged damage.
+			被任何非弹幕伤害命中将立刻用弹幕反击
+			造成45点远程伤害
 			'''
 	}
 
 	FrostedGreatsword: {
 		Tooltip: ""
-		DisplayName: Frosted Greatsword
+		DisplayName: 霜冻巨剑
 	}
 
 	FrigidSpiritBag: {
-		DisplayName: Treasure Bag (Frigid Spirit)
-		Tooltip: Right click to open
+		DisplayName: 宝藏袋 (凛寒之灵)
+		Tooltip: "{$CommonItemTooltip.RightClickToOpen}"
 	}
 
 	FrigidSpiritRelicItem: {
-		DisplayName: Frigid Spirit Relic
+		DisplayName: 凛寒之灵圣物
 		Tooltip: ""
 	}
 
 	AbsoluteZeroIdol: {
-		DisplayName: Frozen Idol
-		Tooltip: Summons the Frigid Spirit
+		DisplayName: 霜冻精美毛绒玩具
+		Tooltip: 召唤凛寒之灵
 	}
 
 	Armor: {
 		PreHardmode: {
 			GraniteChestplate: {
-				DisplayName: Granite Shell
+				DisplayName: 花岗岩胸甲
 				Tooltip: ""
 			}
 
 			GraniteGreaves: {
-				DisplayName: Granite Greaves
+				DisplayName: 花岗岩护腿
 				Tooltip: ""
 			}
 
 			GraniteHat: {
-				DisplayName: Granite Helmet
+				DisplayName: 花岗岩头盔
 				Tooltip: ""
 			}
 		}
@@ -386,32 +388,32 @@ Items: {
 
 	CursedModePlanteraSummon: {
 		DisplayName: REDACTED
-		Tooltip: Let's play a game
+		Tooltip: 让我们开始游戏吧
 	}
 }
 
 NPCs: {
-	TempleWarden.DisplayName: Temple Warden
-	CultistBossShadowClone.DisplayName: Lunatic Cultist
-	Ectogeist.DisplayName: Ectogeist
+	TempleWarden.DisplayName: 神庙门卫
+	CultistBossShadowClone.DisplayName: 拜月教邪教徒
+	Ectogeist.DisplayName: 外灵
 
 	EctoGuardian: {
-		DisplayName: Ecto Guardian
-		BossChecklistIntegration.SpawnInfo: Encounter naturally in The Dungeon or summon with Cursed Dungeon Key. [i:Portal_Mechs_Mod/EctoGuardianSummon]
+		DisplayName: 亡魂守护者
+		BossChecklistIntegration.SpawnInfo: 在地牢中偶尔自然生成活在地牢使用[i:Portal_Mechs_Mod/EctoGuardianSummon]
 	}
 
 	EctoGuardianSignal.DisplayName: ""
 	EctoGuardianSpawner.DisplayName: ""
-	EctoHand.DisplayName: Skeletron
-	EctoMace.DisplayName: Ecto Mace
+	EctoHand.DisplayName: 骷髅王
+	EctoMace.DisplayName: 亡魂毒气
 
 	GraniteCrabHead: {
-		DisplayName: Granite Crab
-		BossChecklistIntegration.SpawnInfo: Find sleeping in Granite Caves or summon with Granite Pearl. [i:Portal_Mechs_Mod/GraniteCrabSummon]
+		DisplayName: 花岗岩礁蟹
+		BossChecklistIntegration.SpawnInfo: 沉睡在花岗岩洞穴或使用[i:Portal_Mechs_Mod/GraniteCrabSummon]以召唤
 	}
 
-	GraniteCrabClaw.DisplayName: Granite Crab
-	GraniteCrabClaw2.DisplayName: Granite Crab
+	GraniteCrabClaw.DisplayName: 花岗岩礁蟹
+	GraniteCrabClaw2.DisplayName: 花岗岩礁蟹
 	GraniteCrabInnerLeg.DisplayName: ""
 	GraniteCrabInnerLeg2.DisplayName: ""
 	GraniteCrabLeg.DisplayName: ""
@@ -427,61 +429,61 @@ NPCs: {
 	GraniteCrabSignal.DisplayName: ""
 	GraniteCrabSignal2.DisplayName: ""
 	GraniteCrabSleeping.DisplayName: ???
-	InvulnerableEctoGuardian.DisplayName: Ecto Guardian
-	InvulnerablePrimeLaser.DisplayName: Prime Laser
+	InvulnerableEctoGuardian.DisplayName: 亡魂守护者
+	InvulnerablePrimeLaser.DisplayName: 机械骷髅王激光
 	MoonLordHandSignal.DisplayName: ""
 	MoonLordHeadSignal.DisplayName: ""
 	MoonLordEnemySpawner.DisplayName: ""
 	MoonLordDeathSignal.DisplayName: ""
 	TestEntity.DisplayName: Test Entity
-	WallOfFleshShadowEye.DisplayName: Eye of Chaos
+	WallOfFleshShadowEye.DisplayName: 混沌之眼
 	WallOfFleshSignal.DisplayName: ""
-	WallOfFleshMouth.DisplayName: Ravenous Maw
-	WallOfFleshFrostEye.DisplayName: Eye of Frost
+	WallOfFleshMouth.DisplayName: 饕餮巨口
+	WallOfFleshFrostEye.DisplayName: 凛冰之眼
 	WallOfFleshFrostEyeSpawner.DisplayName: ""
-	WallOfFleshFireEye.DisplayName: Eye of Flame
+	WallOfFleshFireEye.DisplayName: 业火之眼
 	WallOfFleshFireEyeSpawner.DisplayName: ""
-	WallOfFleshTransitionEye.DisplayName: Eye of Madness
+	WallOfFleshTransitionEye.DisplayName: 迫狂之眼
 	WallOfFleshRedOverlay.DisplayName: ""
 	WallOfFleshBlackBackground.DisplayName: ""
-	WallOfFleshNightmareEye.DisplayName: Eye of Madness
-	MoonLordNightmareEye.DisplayName: Cosmic Nightmare
+	WallOfFleshNightmareEye.DisplayName: 迫狂之眼
+	MoonLordNightmareEye.DisplayName: 宇宙梦魇
 	MoonLordLaserEffect.DisplayName: ""
 
 	MarbleFortress: {
-		DisplayName: Marble Fortress
-		BossChecklistIntegration.SpawnInfo: Find dormant in Marble Caves or summon with Marble Statuette. [i:Portal_Mechs_Mod/MarbleFortressSummon]
+		DisplayName: 大理石宏殿
+		BossChecklistIntegration.SpawnInfo: 在大理石洞穴中找到或使用[i:Portal_Mechs_Mod/MarbleFortressSummon]
 	}
 
-	MarbleFrostTurret.DisplayName: West Tower
-	MarbleFireTurret.DisplayName: East Tower
+	MarbleFrostTurret.DisplayName: 西塔
+	MarbleFireTurret.DisplayName: 东塔
 	MarbleHopliteStatue.DisplayName: ""
 	MarbleHopliteStatue2.DisplayName: ""
-	MarbleHoplite.DisplayName: Hoplite
-	MarbleHoplite2.DisplayName: Hoplite
+	MarbleHoplite.DisplayName: 重装步兵
+	MarbleHoplite2.DisplayName: 重装步兵
 	MarbleFortressEye.DisplayName: ""
-	MarbleFireTurretFlying.DisplayName: East Tower
-	MarbleFrostTurretFlying.DisplayName: West Tower
+	MarbleFireTurretFlying.DisplayName: 东塔
+	MarbleFrostTurretFlying.DisplayName: 西塔
 	MarbleFortressDormant.DisplayName: ???
 	MarbleHopliteStatueDormant.DisplayName: ""
 	MarbleHopliteStatueDormant2.DisplayName: ""
-	AngryGolemHead.DisplayName: Golem Head
+	AngryGolemHead.DisplayName: 石巨人头
 	GolemDeathSignal.DisplayName: ""
 	GolemLootDropper.DisplayName: ""
-	KingSlimeDemon.DisplayName: Demon
+	KingSlimeDemon.DisplayName: 恶魔
 	KingSlimeSignal.DisplayName: ""
-	CursedModeKingSlime.DisplayName: King Slime
-	KingSlimeHarpy.DisplayName: Harpy
-	KingSlimeHornet.DisplayName: Hornet
-	KingSlimeIceElemental.DisplayName: Ice Elemental
-	KingSlimeFlyingAntlion.DisplayName: Desert Spirit
-	KingSlimeMartianProbe.DisplayName: Martian Probe
-	KingSlimeSlimer.DisplayName: Eater of Souls
-	KingSlimeFireImp.DisplayName: Fire Imp
-	KingSlimeSandElemental.DisplayName: Sand Elemental
-	KingSlimeWallOfFleshEye.DisplayName: Wall of Flesh
-	KingSlimeEyeofCthulhu.DisplayName: Eye of Cthulhu
-	KingSlimeSkeletron.DisplayName: Dungeon Guardian
+	CursedModeKingSlime.DisplayName: 史莱姆王
+	KingSlimeHarpy.DisplayName: 鸟妖
+	KingSlimeHornet.DisplayName: 黄蜂
+	KingSlimeIceElemental.DisplayName: 冰雪精
+	KingSlimeFlyingAntlion.DisplayName: 沙漠幽魂
+	KingSlimeMartianProbe.DisplayName: 火星探测器
+	KingSlimeSlimer.DisplayName: 噬魂怪
+	KingSlimeFireImp.DisplayName: 火焰小鬼
+	KingSlimeSandElemental.DisplayName: 沙尘精
+	KingSlimeWallOfFleshEye.DisplayName: 血肉墙
+	KingSlimeEyeofCthulhu.DisplayName: 克苏鲁之眼
+	KingSlimeSkeletron.DisplayName: 地牢守卫
 	KingSlimeBlackBackground.DisplayName: ""
 	KingSlimeFlash.DisplayName: ""
 	KingSlimeLaserShooter.DisplayName: ""
@@ -493,36 +495,36 @@ NPCs: {
 	KingSlimeSolarEclipse.DisplayName: ""
 	BrainofCthulhuRedOverlay.DisplayName: ""
 	CreeperDeathSignal.DisplayName: ""
-	BrainofCthulhuClone.DisplayName: Brain of Cthulhu
+	BrainofCthulhuClone.DisplayName: 克苏鲁之脑
 	BrainofCthulhuFlash.DisplayName: ""
 	BrainofCthulhuSignal.DisplayName: ""
-	BrainofCthulhuCloneLeft.DisplayName: Brain of Cthulhu
-	BrainofCthulhuCloneRight.DisplayName: Brain of Cthulhu
-	BrainofCthulhuCloneUp.DisplayName: Brain of Cthulhu
-	BrainofCthulhuCloneDown.DisplayName: Brain of Cthulhu
-	CursedModeBrainofCthulhu.DisplayName: Brain of Cthulhu
-	BrainofCthulhuCloneFalling.DisplayName: Brain of Cthulhu
+	BrainofCthulhuCloneLeft.DisplayName: 克苏鲁之脑
+	BrainofCthulhuCloneRight.DisplayName: 克苏鲁之脑
+	BrainofCthulhuCloneUp.DisplayName: 克苏鲁之脑
+	BrainofCthulhuCloneDown.DisplayName: 克苏鲁之脑
+	CursedModeBrainofCthulhu.DisplayName: 克苏鲁之脑
+	BrainofCthulhuCloneFalling.DisplayName: 克苏鲁之脑
 	SkeletronBlackBackground.DisplayName: ""
 	SkeletronHandSignal.DisplayName: ""
 	SkeletronHandDeathSignal.DisplayName: ""
-	MawofTheAbyssBody.DisplayName: Eater of Worlds
-	MawofTheAbyss.DisplayName: Eater of Worlds
-	MawofTheAbyssDarkness.DisplayName: Eater of Worlds
+	MawofTheAbyssBody.DisplayName: 世界吞噬者
+	MawofTheAbyss.DisplayName: 世界吞噬者
+	MawofTheAbyssDarkness.DisplayName: 世界吞噬者
 	MawofTheAbyssDeathSignal.DisplayName: ""
 	MawofTheAbyssLootDropper.DisplayName: ""
-	MawofTheAbyssDevourer.DisplayName: Devourer
-	MawofTheAbyssEaterofSouls.DisplayName: Eater of Souls
+	MawofTheAbyssDevourer.DisplayName: 吞噬怪
+	MawofTheAbyssEaterofSouls.DisplayName: 噬魂怪
 	MawofTheAbyssSpawnLimiter.DisplayName: ""
-	MawofTheAbyssClinger.DisplayName: Clinger
+	MawofTheAbyssClinger.DisplayName: 爬藤怪
 	CursedModeDeerclopsBody.DisplayName: ""
 	DeerclopsBackground.DisplayName: ""
-	CursedModeDeerclopsHead.DisplayName: Deerclops
+	CursedModeDeerclopsHead.DisplayName: 独眼巨鹿
 	CursedModeDeerclopsManager.DisplayName: ""
-	CursedModeDeerclopsHand.DisplayName: Deerclops
+	CursedModeDeerclopsHand.DisplayName: 独眼巨鹿
 	DeerclopsHand1AbovePlayerSignal.DisplayName: ""
 	DeerclopsHand1SlamSignal.DisplayName: ""
 	DeerclopsHandReturnSignal.DisplayName: ""
-	CursedModeDeerclopsHand2.DisplayName: Deerclops
+	CursedModeDeerclopsHand2.DisplayName: 独眼巨鹿
 	DeerclopsHand2AbovePlayerSignal.DisplayName: ""
 	DeerclopsHand2SlamSignal.DisplayName: ""
 	DeerclopsBothHandsAbovePlayerSignal.DisplayName: ""
@@ -536,15 +538,15 @@ NPCs: {
 	DeerclopsLaserShooter2.DisplayName: ""
 	DeerclopsLaserReturnSignal.DisplayName: ""
 	DeerclopsEnemyDespawnSignal.DisplayName: ""
-	DeerclopsDemonEye.DisplayName: Demon Eye
-	DeerclopsCorruptor.DisplayName: Corruptor
-	DeerclopsShadowFlameApparition.DisplayName: Shadowflame Apparition
+	DeerclopsDemonEye.DisplayName: 恶魔眼
+	DeerclopsCorruptor.DisplayName: 腐化者
+	DeerclopsShadowFlameApparition.DisplayName: 暗影焰幻鬼
 	DeerclopsStarShooter.DisplayName: ""
 	DeerclopsHand1ChargeUpSignal.DisplayName: ""
 	DeerclopsHand2ChargeUpSignal.DisplayName: ""
 	DeerclopsHandChargeUp.DisplayName: ""
 	DeerclopsHandChargeUp2.DisplayName: ""
-	CursedModeEyeofCthulhu.DisplayName: Eye of Cthulhu
+	CursedModeEyeofCthulhu.DisplayName: 克苏鲁之眼
 	EyeofCthulhuDeathSignal.DisplayName: ""
 	EyeofCthulhuBlackBackground.DisplayName: ""
 	EyeofCthulhuRedOverlay.DisplayName: ""
@@ -554,39 +556,39 @@ NPCs: {
 	KingSlimeLootDropperMoon.DisplayName: ""
 	KingSlimeLootDropperSun.DisplayName: ""
 	EctoGuardianLootDropper.DisplayName: ""
-	BeeKing.DisplayName: The Bee King
+	BeeKing.DisplayName: 蜂王
 	BeeKingDespawnSignal.DisplayName: ""
-	JackalFace.DisplayName: Jackal Face
+	JackalFace.DisplayName: 豹假面
 	DesertPhantomActivateSignal.DisplayName: ""
 
 	DesertPhantom: {
-		DisplayName: Desert Phantom
-		BossChecklistIntegration.SpawnInfo: Destroy a Sarcophagus in the Undeground Desert or summon with Cursed Relic. [i:Portal_Mechs_Mod/DesertPhantomSummon]
+		DisplayName: 沙漠幻影
+		BossChecklistIntegration.SpawnInfo: 在沙漠地下摧毁一个棺材或使用[i:Portal_Mechs_Mod/DesertPhantomSummon]以召唤
 	}
 
-	JackalFaceFist1.DisplayName: Jackal Face
+	JackalFaceFist1.DisplayName: 豹假面
 	JackalFaceFist1SlamSignal.DisplayName: ""
 	JackalFaceFistJackHammerSignal.DisplayName: ""
-	JackalFaceFist2.DisplayName: Jackal Face
+	JackalFaceFist2.DisplayName: 豹假面
 	JackalFaceFist2SlamSignal.DisplayName: ""
 	JackalFaceFistReturnSignal.DisplayName: ""
 	DesertPhantomSpawnLimiter.DisplayName: ""
-	DesertPhantomDecoy.DisplayName: Desert Phantom
+	DesertPhantomDecoy.DisplayName: 沙漠幻影
 	DesertPhantomDecoySignal.DisplayName: ""
-	GhoulFace.DisplayName: Sun Face
-	GhoulFaceSpikes.DisplayName: Sun Face
-	BlockFace.DisplayName: Block Face
-	DesertPhantomSarcophagus.DisplayName: Sarcophagus
-	GraniteYoungling.DisplayName: Granite Youngling
+	GhoulFace.DisplayName: 旭日之面
+	GhoulFaceSpikes.DisplayName: 旭日之面
+	BlockFace.DisplayName: 密锁之面
+	DesertPhantomSarcophagus.DisplayName: 棺材
+	GraniteYoungling.DisplayName: 幼女花岗岩礁蟹
 
 	AetherDragonHead: {
-		DisplayName: Aether Wyrm
-		BossChecklistIntegration.SpawnInfo: Approach the Shimmer or summon with Aether Dust. [i:Portal_Mechs_Mod/AetherDragonSummon]
+		DisplayName: 以太之龙
+		BossChecklistIntegration.SpawnInfo: 接近微光或使用[i:Portal_Mechs_Mod/AetherDragonSummon]以召唤
 	}
 
-	AetherDragonBody.DisplayName: Aether Wyrm
-	AetherDragonTail.DisplayName: Aether Wyrm
-	AetherDragonStar.DisplayName: Radiant Light
+	AetherDragonBody.DisplayName: 以太之龙
+	AetherDragonTail.DisplayName: 以太之龙
+	AetherDragonStar.DisplayName: 辐辉之光
 	AetherDragonStarSignal.DisplayName: ""
 	AetherDragonFadeInSignal.DisplayName: ""
 	AetherDragonFadeOutSignal.DisplayName: ""
@@ -596,58 +598,58 @@ NPCs: {
 	AetherDragonCrossDiagonalSignal.DisplayName: ""
 	AetherDragonStarSignal2.DisplayName: ""
 	AetherDragonCrossRandomSignal.DisplayName: ""
-	AetherDragonStar2.DisplayName: Radiant Light
-	AetherDragonStar3.DisplayName: Radiant Light
+	AetherDragonStar2.DisplayName: 辐辉之光
+	AetherDragonStar3.DisplayName: 辐辉之光
 	AetherDragonStarSpawner.DisplayName: ""
 	AetherDragonLootDropper.DisplayName: ""
-	WallOfFleshCursedEye.DisplayName: Eye of Corruption
+	WallOfFleshCursedEye.DisplayName: 糜烂之眼
 	WallOfFleshCursedEyeSpawner.DisplayName: ""
 	AetherMinionManager.DisplayName: ""
 
 	SunplateVoyager: {
-		DisplayName: Sunplate Privateer
-		BossChecklistIntegration.SpawnInfo: Kill enough Harpies or summon with Sunplate Medallion. [i:Portal_Mechs_Mod/SunplateVoyagerSummon]
+		DisplayName: 太阳能板私掠船
+		BossChecklistIntegration.SpawnInfo: 击杀足够多的鸟妖或使用[i:Portal_Mechs_Mod/SunplateVoyagerSummon]以召唤
 	}
 
 	SunplateVoyagerTurnLeftSignal.DisplayName: ""
 	SunplateVoyagerTurnRightSignal.DisplayName: ""
-	SunplateCannon.DisplayName: Sunplate Cannon
-	SunplateCannon2.DisplayName: Sunplate Cannon
-	SunplateCannon3.DisplayName: Sunplate Cannon
-	SunplateCannon4.DisplayName: Sunplate Cannon
-	SunplateCultist.DisplayName: Sunplate Archer
-	SunplateCultist2.DisplayName: Sunplate Archer
-	SunplateCultist3.DisplayName: Sunplate Archer
-	SunplateCultist4.DisplayName: Sunplate Archer
-	SunplateCultist5.DisplayName: Sunplate Archer
-	SunplateCultist6.DisplayName: Sunplate Archer
-	SunplateCultist7.DisplayName: Sunplate Archer
-	SunplateCultist8.DisplayName: Sunplate Archer
-	SunplateCaptain.DisplayName: Sunplate Captain
+	SunplateCannon.DisplayName: 太阳能版加农炮
+	SunplateCannon2.DisplayName: 太阳能板加农炮
+	SunplateCannon3.DisplayName: 太阳能板加农炮
+	SunplateCannon4.DisplayName: 太阳能板加农炮
+	SunplateCultist.DisplayName: 太阳能板射手
+	SunplateCultist2.DisplayName: 太阳能板射手
+	SunplateCultist3.DisplayName: 太阳能板射手
+	SunplateCultist4.DisplayName: 太阳能板射手
+	SunplateCultist5.DisplayName: 太阳能板射手
+	SunplateCultist6.DisplayName: 太阳能板射手
+	SunplateCultist7.DisplayName: 太阳能板射手
+	SunplateCultist8.DisplayName: 太阳能板射手
+	SunplateCaptain.DisplayName: 太阳能版船长
 	SunplateCaptainExplosionSpawner.DisplayName: ""
 	SunplateCaptainExplosionSpawner2.DisplayName: ""
 	SunplateCannonDeathSignal.DisplayName: ""
 	SunplateCultistDeathSignal.DisplayName: ""
 	SunplateVoyagerLootDropper.DisplayName: ""
-	ForgottenSeal.DisplayName: Forgotten Seal
+	ForgottenSeal.DisplayName: 遗忘图章
 	ForgottenSealBackground.DisplayName: ""
 	ForgottenSealOverlay.DisplayName: ""
 	ForgottenSealFlash.DisplayName: ""
 	ForgottenSealDropper.DisplayName: ""
-	BetaForgottenSeal.DisplayName: Inverted Seal
+	BetaForgottenSeal.DisplayName: 逆转图章
 	SkeletronLootDropper.DisplayName: ""
-	MawofTheAbyssDevourerBody.DisplayName: Devourer
-	MawofTheAbyssDevourerHead.DisplayName: Devourer
-	MawofTheAbyssDevourerTail.DisplayName: Devourer
-	MawofTheAbyssCorruptor.DisplayName: Corruptor
+	MawofTheAbyssDevourerBody.DisplayName: 吞噬怪
+	MawofTheAbyssDevourerHead.DisplayName: 吞噬怪
+	MawofTheAbyssDevourerTail.DisplayName: 吞噬怪
+	MawofTheAbyssCorruptor.DisplayName: 腐化者
 	MawofTheAbyssLootDropper2.DisplayName: ""
 	MawofTheAbyssSpawner.DisplayName: ""
 	WallOfFleshBarrier.DisplayName: ""
 	KingSlimeLootDropperBloodMoon.DisplayName: ""
-	CursedModeSkeletronPrime.DisplayName: Skeletron Prime
+	CursedModeSkeletronPrime.DisplayName: 机械骷髅王
 	SkeletronPrimeBlackBackground.DisplayName: ""
 	SkeletronPrimeFlash.DisplayName: ""
-	CursedModeSkeletronPrimeArm.DisplayName: Skeletron Prime
+	CursedModeSkeletronPrimeArm.DisplayName: 机械骷髅王
 	Lashes.DisplayName: Lashestone
 	Blinky.DisplayName: Retinarc
 	Starei.DisplayName: Stareial
@@ -660,7 +662,7 @@ NPCs: {
 	QuadrupletsBlackBackground.DisplayName: ""
 	QuadrupletsLootDropper.DisplayName: ""
 	PortalModSpawnLimiter.DisplayName: ""
-	CursedModeDestroyer.DisplayName: The Destroyer
+	CursedModeDestroyer.DisplayName: 毁灭者
 	CursedModeDestroyerManager.DisplayName: ""
 	DestroyerIntroLight.DisplayName: ""
 	DestroyerIntroFlash.DisplayName: ""
@@ -669,8 +671,8 @@ NPCs: {
 	DestroyerEdgeBarrierUp.DisplayName: ""
 	DestroyerEdgeBarrierLeft.DisplayName: ""
 	DestroyerEdgeBarrierDown.DisplayName: ""
-	DestroyerForceField.DisplayName: The Destroyer
-	DestroyerShieldProbe.DisplayName: Probe
+	DestroyerForceField.DisplayName: 毁灭者
+	DestroyerShieldProbe.DisplayName: 探针
 	DestroyerProbeLight.DisplayName: ""
 	DestroyerSignal.DisplayName: ""
 	DestroyerCrossStraight.DisplayName: ""
@@ -686,9 +688,9 @@ NPCs: {
 	KingSlimeBloodMoonManager.DisplayName: ""
 	KingSlimeMoonManager.DisplayName: ""
 	KingSlimeEclipseManager.DisplayName: ""
-	BoomWorm.DisplayName: Dynamite Worm
-	BoomWormBody.DisplayName: Dynamite Worm
-	Tank.DisplayName: Tank
+	BoomWorm.DisplayName: 雷管蠕虫
+	BoomWormBody.DisplayName: 雷管蠕虫
+	Tank.DisplayName: 坦克
 	CroupSpi.DisplayName: Croup Spi
 	CroupSpiBody.DisplayName: Croup Spi Body
 	CroupSpiBodyDown.DisplayName: Croup Spi Body Down
@@ -697,8 +699,8 @@ NPCs: {
 	MawofTheAbyssScreenShake.DisplayName: ""
 	MawofTheAbyssMinionTarget.DisplayName: ""
 	WallOfFleshMinionTarget.DisplayName: ""
-	CursedModeQueenSlime.DisplayName: Queen Slime
-	QueenSlimeWings.DisplayName: Queen Slime
+	CursedModeQueenSlime.DisplayName: 史莱姆皇后
+	QueenSlimeWings.DisplayName: 史莱姆皇后
 	QueenSlimeBiomeManager.DisplayName: ""
 	QueenSlimeEclipse.DisplayName: ""
 	QueenSlimeSignal.DisplayName: ""
@@ -714,19 +716,19 @@ NPCs: {
 	QueenSlimeFlash.DisplayName: ""
 	QueenSlimeLaserShooter.DisplayName: ""
 	QueenSlimeLaserShooter2.DisplayName: ""
-	Radiance.DisplayName: The Radiance
-	RadianceBackground.DisplayName: The Radiance
-	RadianceDying.DisplayName: The Radiance
+	Radiance.DisplayName: 辐光
+	RadianceBackground.DisplayName: 辐光
+	RadianceDying.DisplayName: 辐光
 	RadianceIntro.DisplayName: ""
 	RadianceFlash.DisplayName: ""
 	RadianceSignal.DisplayName: ""
 	RadianceTitleCard.DisplayName: ""
 	RadianceTeleportFlash.DisplayName: ""
 	RadianceSkipIntro.DisplayName: ""
-	RadianceLaserWall.DisplayName: Pillar of Light
-	AbsoluteRadiance.DisplayName: Absolute Radiance
-	AbsoluteRadianceBackground.DisplayName: Absolute Radiance
-	AbsoluteRadianceDying.DisplayName: Absolute Radiance
+	RadianceLaserWall.DisplayName: 无上光
+	AbsoluteRadiance.DisplayName: 无上辐光
+	AbsoluteRadianceBackground.DisplayName: 无上辐光
+	AbsoluteRadianceDying.DisplayName: 无上辐光
 	AbsoluteRadianceIntro.DisplayName: ""
 	RadianceSummonReturn.DisplayName: ""
 	QueenSlimeSummonReturn.DisplayName: ""
@@ -740,17 +742,17 @@ NPCs: {
 	KingSlimeSummonReturn.DisplayName: ""
 	MawofTheAbyssSummonReturn.DisplayName: ""
 	WallOfFleshSummonReturn.DisplayName: ""
-	BoomSlime.DisplayName: Boom Slime
-	LavaShark.DisplayName: Lava Shark
+	BoomSlime.DisplayName: 爆炸史莱姆
+	LavaShark.DisplayName: 熔岩鲨鱼
 	QuadrupletsUltimateSignal.DisplayName: ""
 	DestroyerSingleFlashSignal.DisplayName: ""
 	CursedModePlantera.DisplayName: ""
-	FakePlantera.DisplayName: Plantera
+	FakePlantera.DisplayName: 世纪之花
 	PlanteraEye.DisplayName: ""
 	PlanteraHeart.DisplayName: ????????????????????????????????????????????????????????????
 
 	PlanteraMapImage: {
-		DisplayName: NO ESCAPE
+		DisplayName: -禁-止-逃-跑-
 
 		TownNPCMood: {
 			Content: I am content.
@@ -764,14 +766,14 @@ NPCs: {
 		}
 	}
 
-	PlanteraSignal.DisplayName: NO ESCAPE
+	PlanteraSignal.DisplayName: -禁-止-逃-跑-
 	PlanteraMaw.DisplayName: ????????????????????????????????????????????????????????????
 	PlanteraHeartHostile.DisplayName: ????????????????????????????????????????????????????????????
 	PlanteraDarkness.DisplayName: ""
 	PlanteraHeartBig.DisplayName: ????????????????????????????????????????????????????????????
 	PlanteraHeart2.DisplayName: ????????????????????????????????????????????????????????????
-	PlanteraSummonReturn.DisplayName: I WIN
-	PlanteraSignal2.DisplayName: NO ESCAPE
+	PlanteraSummonReturn.DisplayName: -我-会-赢-下-这-场-战-斗-
+	PlanteraSignal2.DisplayName: -禁-止-逃-跑-
 	PlanteraHeartBig2.DisplayName: ????????????????????????????????????????????????????????????
 	PlanteraHeart3.DisplayName: ????????????????????????????????????????????????????????????
 	PlanteraHeart4.DisplayName: ????????????????????????????????????????????????????????????
@@ -779,7 +781,7 @@ NPCs: {
 	PlanteraFinalForm.DisplayName: ""
 
 	PlanteraPlayerSoul: {
-		DisplayName: Hope
+		DisplayName: 希望
 
 		TownNPCMood: {
 			Content: I am content.
@@ -801,45 +803,45 @@ NPCs: {
 	PlanteraFinalFormSignal.DisplayName: ""
 	PlanteraPlayerAttack2.DisplayName: ""
 	PlanteraExitSignal.DisplayName: ""
-	PlanteraLootDropper.DisplayName: Plantera
-	PlanteraOutro.DisplayName: Plantera
+	PlanteraLootDropper.DisplayName: 世纪之花
+	PlanteraOutro.DisplayName: 世纪之花
 
 	FrigidSpiritMain: {
 		DisplayName: Frigid Spirit
-		BossChecklistIntegration.SpawnInfo: Summon with Frozen Idol. [i:Portal_Mechs_Mod/AbsoluteZeroIdol]
+		BossChecklistIntegration.SpawnInfo: 使用[i:Portal_Mechs_Mod/AbsoluteZeroIdol]以召唤
 	}
 
-	FrigidSpiritClone.DisplayName: Frigid Spirit
-	SoulLantern.DisplayName: Soul Lantern
+	FrigidSpiritClone.DisplayName: 凛寒之灵
+	SoulLantern.DisplayName: 灵魂灯笼
 	GolemPhase1Manager.DisplayName: ""
-	GolemHeadDrone.DisplayName: Golem Head
+	GolemHeadDrone.DisplayName: 石巨人头
 	GolemSummonReturn.DisplayName: ""
 	GolemPhase2Manager.DisplayName: ""
 	GolemMissileSignal.DisplayName: ""
 	GolemLaserSignal.DisplayName: ""
 	GolemJumpSignal.DisplayName: ""
 	GolemFistSignal.DisplayName: ""
-	GolemPillar.DisplayName: Lihzahrd Monument
+	GolemPillar.DisplayName: 蜥蜴人纪念碑
 	GolemPillarSignal.DisplayName: ""
-	GolemHealthBar.DisplayName: Golem
+	GolemHealthBar.DisplayName: 石巨人
 	GolemHelper.DisplayName: ???
 	GolemHelper2.DisplayName: ???
 	GolemHelperOverlay.DisplayName: ""
 	GolemSpawner.DisplayName: ""
-	CursedModeGolem.DisplayName: Golem
-	CursedModeGolemHead.DisplayName: Golem
+	CursedModeGolem.DisplayName: 石巨人
+	CursedModeGolemHead.DisplayName: 石巨人
 	GolemLaserShooter.DisplayName: ""
 	GolemFireballSignal.DisplayName: ""
 	GolemOverlay.DisplayName: ""
 	GolemHelperPostFight.DisplayName: ???
 	GolemDeathFlash.DisplayName: ""
-	GolemHeadDying.DisplayName: Golem
+	GolemHeadDying.DisplayName: 石巨人
 	GolemHelperPostFight2.DisplayName: ???
 	GolemExit.DisplayName: ""
 	GolemReset1.DisplayName: ""
 	GolemReset2.DisplayName: ""
 	MawofTheAbyssRetreat.DisplayName: ""
-	CursedModeDukeFishron.DisplayName: Duke Fishron
+	CursedModeDukeFishron.DisplayName: 猪龙鱼公爵
 	DukeFishronOverlay.DisplayName: ""
 	DukeSignal.DisplayName: ""
 	DukeSignal2.DisplayName: ""
@@ -850,9 +852,9 @@ NPCs: {
 }
 
 Projectiles: {
-	DestroyerFire.DisplayName: Destroyer Fire
-	EctoBaneBurst.DisplayName: Ecto Bane
-	EctoBaneProjectile.DisplayName: Ecto Bane
+	DestroyerFire.DisplayName: 毁灭者焰
+	EctoBaneBurst.DisplayName: 亡魂灾星
+	EctoBaneProjectile.DisplayName: 亡魂灾星
 	EctoFlailProjectile.DisplayName: Ecto Flail
 	GraniteBlast.DisplayName: Granite Beam
 	TidalSpray.DisplayName: Tidal Spray
@@ -916,8 +918,8 @@ Projectiles: {
 	KingSlimeLightBeamFriendly.DisplayName: Collapsing Star
 	CollapsingStarProjectile2.DisplayName: Collapsing Star
 	EctoBeam.DisplayName: Ecto Beam
-	CultistMinion.DisplayName: Sunplate Archer
-	CultistMinionProjectile.DisplayName: Sunplate Archer
+	CultistMinion.DisplayName: 太阳能板射手
+	CultistMinionProjectile.DisplayName: 太阳能板射手
 	SunplateCannonBallProjectile.DisplayName: Cannonball and Chain
 	EctoMinion.DisplayName: Ecto Mace
 	SpectralBullet.DisplayName: Spectral Bullet
@@ -1042,42 +1044,42 @@ Projectiles: {
 
 Biomes: {
 	DeerclopsBiome: {
-		DisplayName: Deerclops Biome
-		TownNPCDialogueName: the Deerclops Biome
+		DisplayName: 独眼巨鹿群系
+		TownNPCDialogueName: 独眼巨鹿群系
 	}
 
 	KingSlimeBiome: {
-		DisplayName: King Slime Biome
-		TownNPCDialogueName: the King Slime Biome
+		DisplayName: 史莱姆王群系
+		TownNPCDialogueName: 史莱姆王群系
 	}
 
 	QueenSlimeBiome: {
-		DisplayName: Queen Slime Biome
-		TownNPCDialogueName: the Queen Slime Biome
+		DisplayName: 蜂王群系
+		TownNPCDialogueName: 蜂王群系
 	}
 
 	RadianceBiome: {
-		DisplayName: Radiance Biome
-		TownNPCDialogueName: the Radiance Biome
+		DisplayName: 辐光群系
+		TownNPCDialogueName: 辐光群系
 	}
 
 	SkeletronPrimeBiome: {
-		DisplayName: Skeletron Prime Biome
-		TownNPCDialogueName: the Skeletron Prime Biome
+		DisplayName: 机械骷髅王群系
+		TownNPCDialogueName: 机械骷髅王群系
 	}
 
 	AbsoluteRadianceBiome: {
-		DisplayName: Absolute Radiance Biome
-		TownNPCDialogueName: the Absolute Radiance Biome
+		DisplayName: 无上辐光群系
+		TownNPCDialogueName: 无上辐光群系
 	}
 
 	GolemBiome: {
-		DisplayName: Golem Biome
-		TownNPCDialogueName: the Golem Biome
+		DisplayName: 石巨人群系
+		TownNPCDialogueName: 石巨人群系
 	}
 
 	DukeFishronBiome: {
-		DisplayName: Duke Fishron Biome
-		TownNPCDialogueName: the Duke Fishron Biome
+		DisplayName: 猪龙鱼公爵群系
+		TownNPCDialogueName: 猪龙鱼公爵群系
 	}
 }
