@@ -1,7 +1,7 @@
 Buffs: {
 	GraniteMinionBuff: {
-		Description: 召唤幼年花岗岩礁蟹为你而战
-		DisplayName: 花岗岩礁蟹
+		Description: 召唤花岗岩幼蝇为你而战
+		DisplayName: 花岗岩幼蝇
 	}
 
 	GraniteWhipDebuff: {
@@ -102,7 +102,7 @@ Items: {
 
 	GraniteStaff: {
 		DisplayName: 花岗岩权杖
-		Tooltip: 召唤一个幼年花岗岩礁蟹为你而战
+		Tooltip: 召唤一个花岗岩幼蝇为你而战
 	}
 
 	MarbleBrick: {
@@ -387,7 +387,7 @@ Items: {
 	}
 
 	CursedModePlanteraSummon: {
-		DisplayName: REDACTED
+		DisplayName: 机密
 		Tooltip: 让我们开始游戏吧
 	}
 }
@@ -430,7 +430,7 @@ NPCs: {
 	GraniteCrabSignal2.DisplayName: ""
 	GraniteCrabSleeping.DisplayName: ???
 	InvulnerableEctoGuardian.DisplayName: 亡魂守护者
-	InvulnerablePrimeLaser.DisplayName: 机械骷髅王激光
+	InvulnerablePrimeLaser.DisplayName: 机械镭射臂
 	MoonLordHandSignal.DisplayName: ""
 	MoonLordHeadSignal.DisplayName: ""
 	MoonLordEnemySpawner.DisplayName: ""
@@ -579,7 +579,7 @@ NPCs: {
 	GhoulFaceSpikes.DisplayName: 旭日之面
 	BlockFace.DisplayName: 密锁之面
 	DesertPhantomSarcophagus.DisplayName: 棺材
-	GraniteYoungling.DisplayName: 幼女花岗岩礁蟹
+	GraniteYoungling.DisplayName: 花岗岩幼蝇
 
 	AetherDragonHead: {
 		DisplayName: 以太之龙
