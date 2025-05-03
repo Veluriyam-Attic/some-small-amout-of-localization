@@ -220,8 +220,8 @@ Items: {
 	}
 
 	SunplateVoyagerSummon: {
-		DisplayName: 太阳能版奖章
-		Tooltip: 召唤太阳能版私掠船
+		DisplayName: 太阳能板奖章
+		Tooltip: 召唤太阳能板私掠船
 	}
 
 	SunplateCaptainMask: {
@@ -241,7 +241,7 @@ Items: {
 
 	CultistStaff: {
 		DisplayName: 船长手杖
-		Tooltip: 召唤太阳版射手为你而战
+		Tooltip: 召唤太阳板射手为你而战
 	}
 
 	SunplateCannonBall: {
@@ -613,7 +613,7 @@ NPCs: {
 
 	SunplateVoyagerTurnLeftSignal.DisplayName: ""
 	SunplateVoyagerTurnRightSignal.DisplayName: ""
-	SunplateCannon.DisplayName: 太阳能版加农炮
+	SunplateCannon.DisplayName: 太阳能板加农炮
 	SunplateCannon2.DisplayName: 太阳能板加农炮
 	SunplateCannon3.DisplayName: 太阳能板加农炮
 	SunplateCannon4.DisplayName: 太阳能板加农炮
@@ -625,7 +625,7 @@ NPCs: {
 	SunplateCultist6.DisplayName: 太阳能板射手
 	SunplateCultist7.DisplayName: 太阳能板射手
 	SunplateCultist8.DisplayName: 太阳能板射手
-	SunplateCaptain.DisplayName: 太阳能版船长
+	SunplateCaptain.DisplayName: 太阳能板船长
 	SunplateCaptainExplosionSpawner.DisplayName: ""
 	SunplateCaptainExplosionSpawner2.DisplayName: ""
 	SunplateCannonDeathSignal.DisplayName: ""
@@ -807,7 +807,7 @@ NPCs: {
 	PlanteraOutro.DisplayName: 世纪之花
 
 	FrigidSpiritMain: {
-		DisplayName: Frigid Spirit
+		DisplayName: 凛寒之灵
 		BossChecklistIntegration.SpawnInfo: 使用[i:Portal_Mechs_Mod/AbsoluteZeroIdol]以召唤
 	}
 
