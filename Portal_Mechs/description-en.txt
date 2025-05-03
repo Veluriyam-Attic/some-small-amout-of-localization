@@ -1,0 +1,87 @@
+IMPORTANT:
+
+IT IS RECOMMENDED THAT YOU PLAY FORGOTTEN EVILS ON SINGLE PLAYER, AS IT HAS BEEN REPORTED TO BE EXTREMELY UNSTABLE ON SERVERS.
+
+FORGOTTEN EVILS DOES NOT PLAY WELL WITH OTHER CONTENT MODS. IT IS RECOMMENDED THAT YOU KEEP THEM SEPARATE, OR ELSE YOU WILL ENCOUNTER BUGS.
+
+FORGOTTEN EVILS USES COPYRIGHTED MUSIC ON SOME OF ITS CURSED MODE BOSSES. YOUTUBERS BEWARE.
+
+FORGOTTEN EVILS CONTAINS NO STOLEN CODE. ALL CODE NOT DIRECTLY MADE BY THE CREATOR WAS DONATED BY CONTRIBUTORS TO BE USED IN THE MOD, OR TAKEN FROM OPEN SOURCE MODS (NAMELY EXAMPLEMOD).
+
+(Multiplayer compatibility will be added at a later date.)
+
+Trailer: https://www.youtube.com/watch?v=78Did1XRjcs
+
+Discord: https://discord.gg/bSs7gNAepT
+
+Youtube channel: https://www.youtube.com/@portalmech4770?sub_confirmation=1
+
+Forums page: https://forums.terraria.org/index.php?threads/forgotten-evils.134807/
+
+~ ~ ~
+
+Forgotten Evils is a large content mod that adds a variety of new items, bosses and other features, including its own optional difficulty mode for extra challenge.
+
+Features:
+
+7 unique bosses
+
+55 unique items
+
+0 shaders
+
+Numerous new projectiles and enemy types.
+
+Optional dynamic reworks for all unmodded Pre-Hardmode bosses, along with reworks for each of the Mechanical bosses, Queen Slime Empress of Light, and Golem. (More to be added later.)
+
+~ ~ ~
+
+The non-Cursed Mode side of Forgotten Evils features mostly Pre-Hardmode content. Hardmode content of similar quality will be added in a future update.
+
+~ ~ ~
+
+Credits:
+
+Chinese translation by "虞悖「Yu Bell」"
+
+Sprites for Plantera rework by "noobnotarealanoob" and "Portal Mech".
+
+Frigid spirit and assorted loot by Geungsi.
+
+Sprites for Aether Wyrm, Enchanted Javelin, Pharaohs Staff, Cursed Dungeon Key, Aether Lure, Aether Bow, Aether Staff, Architect's Tome, Collapsing Star and Captain's Staff by "Level 100 Thief Master".
+
+Sprite for Pharoah's Eye by "Vel!".
+
+Sprites for Granite Staff, Granite Youngling minion and Sunplate Archer minion by "Sophie".
+
+Sprites for Forgotten Seal, Desert Phantom map icons, Granite Crab map icon, Crab Eye, Aether Wyrm map icon, Dungeon Lord's Staff, Desolate Whirlpool, Aether Edge and Aether Wyrm minion by "Danialeissus".
+
+Sprites for Granite Crab and Sunplate Privateer and Bee King by "Portal Mech" and "TheFallenChild".
+
+Crimera rework, Dynamite Worm, Tank, Boom Slime and Lava Shark by "Kesaka".
+
+Sprites for Jackal Face, Sun Face, Block Face and Sarcophagus by "Magolor".
+
+Sprites for Ecto Guardian and Crypt Gun by "Blu3".
+
+Sprite for Architect's Tome projectile by "LolO", "Danialeissus" and "Magolor".
+
+~ ~ ~
+
+Music:
+
+Eyes of The Apocalypse - Theme of the Quadruplets by Sophie: https://youtu.be/TCg0gljEgtA
+
+True Terror - Theme of Cursed Mode Wall of Flesh by King Baylor https://www.youtube.com/watch?v=fA9vqwYzH6Y
+
+It Still Stands - Theme of Marble Fortress by Antibody: https://www.youtube.com/watch?v=v0i9KDFzc7Y
+
+Tomb Weaver - Theme of Desert Phantom by Antibody: https://www.youtube.com/watch?v=czQjdgwvf8U
+
+Raging Deereity - Theme of Devil Deerclops by Sophie: https://www.youtube.com/watch?v=q2AOPw228To
+
+Lasting Gaze - Theme of the Lesser Twins (second form) by Sophie: https://www.youtube.com/watch?v=eUvLx2YFEZg
+
+Dual Eyesore - Theme of the Lesser Twins by Sophie: https://youtu.be/Fn0uCEY5KCI
+
+(Videos for other OSTs pending.)

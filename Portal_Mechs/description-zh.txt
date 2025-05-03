@@ -1,0 +1,97 @@
+-重-要-信-息-:
+
+推荐在单人模式下游玩 被遗忘的诅咒[Forgotten Evils]
+根据反馈它在多人模式下极其不稳定
+
+被遗忘的诅咒[Forgotten Evils]不兼容其他内容Mod
+推荐分别加载它们，否则会遇到Bug
+
+YouTube用户请注意
+被遗忘的诅咒[Forgotten Evils]使用了受到版权保护的音乐
+
+被遗忘的诅咒[Forgotten Evils]中没有窃取得来的代码
+所有非直接由创造者编写的代码都是由贡献者捐赠用于Mod
+或者从开源Mod（即示例Mod）中得来的
+
+(多人适配会在以后添加)
+
+预热片: https://www.youtube.com/watch?v=78Did1XRjcs
+
+Discord: https://discord.gg/bSs7gNAepT
+
+Youtube频道: https://www.youtube.com/@portalmech4770?sub_confirmation=1
+
+论坛页: https://forums.terraria.org/index.php?threads/forgotten-evils.134807/
+
+~ ~ ~
+
+被遗忘的诅咒[Forgotten Evils]是一个添加了各种武器、Boss和其他功能的大型内容Mod
+包括了新的可选难度模式来添加额外的挑战
+
+简介:
+
+7个独特Boss
+
+55个独特物品
+
+0着色器
+
+许多新的弹幕和地方类型
+
+为所有未修改的困难模式前Boss添加了可选的动态重做
+以及为机械Boss、史莱姆女皇、光之女皇和石巨人添加的重做
+（未来会添加更多）
+
+~ ~ ~
+
+被遗忘的诅咒[Forgotten Evils]的非诅咒模式内容主要在困难模式之前，后续会添加质量类似的困难模式内容
+
+~ ~ ~
+
+致谢:
+
+虞悖「Yu Bell」提供的中文本地化
+
+noobnotarealanoob和Portal Mech提供的重做的世纪之花贴图
+
+Geungsi提供的凛寒之灵和掉落物
+
+Level 100 Thief Master提供的以太之龙、强化标枪、法老权杖、诅咒地牢之匙、以太饵料、以太弓、以太权杖、建筑师卷宗、坍缩星和船长手杖的贴图
+
+Vel!提供的法老之曈的贴图
+
+Sophie提供的花岗岩权杖、花岗岩幼蝇仆从和太阳能板射手的贴图
+
+Danialeissus提供的遗忘图章贴图、沙漠幻影地图贴图、花岗岩礁蟹地图贴图、礁蟹眼地图贴图、以太之龙地图贴图、地牢之主权杖贴图、荒凉漩涡贴图、以太边缘贴图和以太龙召唤物贴图
+
+TheFallenChild和Portal Mech提供的花岗岩礁蟹、太阳能板私掠船和蜂王的贴图
+
+Kesaka提供的重做猩红喀迈拉、雷管蠕虫、坦克、爆炸史莱姆和岩浆鲨鱼
+
+Magolor提供的豹假面、旭日之面、密锁之面和棺材的贴图
+
+Blu3提供的亡魂守护者和地窖枪的贴图
+
+LolO、Danialeissus和Magolor提供的建筑师卷宗弹幕贴图
+
+~ ~ ~
+
+音乐:
+
+启示录之曈 - Sophie的四宙之眼主题: https://youtu.be/TCg0gljEgtA
+
+真实怖惧 - King Baylor的诅咒模式血肉墙主题 https://www.youtube.com/watch?v=fA9vqwYzH6Y
+
+屹立不倒 - Antibody的大理石宏殿主题: https://www.youtube.com/watch?v=v0i9KDFzc7Y
+
+墓穴编织者 - Antibody的沙漠亡魂主题: https://www.youtube.com/watch?v=czQjdgwvf8U
+
+愤怒之鹿 - Sophie的独眼巨鹿主题: https://www.youtube.com/watch?v=q2AOPw228To
+
+凝望 - Sophie的克苏鲁之眼（第二形态）主题: https://www.youtube.com/watch?v=eUvLx2YFEZg
+
+恶惧双眼 - Sophie的克苏鲁之眼主题: https://youtu.be/Fn0uCEY5KCI
+
+(其他的OST视频待定)
+
+该页面中文本地化以及更新日志由[url=https://steamcommunity.com/profiles/76561199351410322]虞悖[/url]提供，反馈请至Q群[url=https://qm.qq.com/q/5wdAQBTpHa]909428503[/url]
