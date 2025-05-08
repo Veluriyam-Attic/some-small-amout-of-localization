@@ -1,0 +1,128 @@
+Items: {
+	TradingTable: {
+		DisplayName: 商店市场
+		Tooltip: 放置后可以访问所有NPC商店的物品
+	}
+
+	ShopMarketPortable: {
+		DisplayName: 便携式商店市场
+		Tooltip: 随时随地购买物品！右键以使用！
+	}
+
+	TradingTableWallItem: {
+		DisplayName: 挂置商店市场
+		Tooltip: 挂置后可以访问所有NPC商店的物品
+	}
+}
+
+UserFeedback: {
+	Market_refresh: 刷新商店物品
+	cant_purchase: 无法购买物品
+	buy_fail_npc: 由于未生成的NPC
+	buy_fail_con: 由于下列条件未满足
+	Buy_fail_price: 你无法支付这个物品!
+	Config_fail: 你没有权限! 尝试在单人模式下更改配置
+	error_fullshop: 无法将商店市场的物品放到旅商的商店中. 它太满了！
+	custom_con: 商店市场已开放
+	item_context: 购买的物品来于NPC
+	npc_homeless: 无家可归
+	npc_inactive: 未生成
+}
+
+ShopUI: {
+	item_price: 物品价格:
+	your_money: 你的钱币:
+	vendor_name: NPC:
+	item_filter: 物品名字
+	search_tip: @模组名称, %模组NPC名称, #物品描述, $NPC名字, &条件
+	buy_amount: 购买数量
+	item_count1: 展示
+	item_count2: 物品
+	item_count3: 来自
+	item_count4: NPC
+	refresh_tip: 刷新商店
+	item_con: 包含未满足的物品
+	item_con_tip: 显示未满足条件的其他可购买物品
+	npc_con: 包含未满足NPC条件的物品
+	npc_con_tip: 显示未满足NPC条件的物品 (无家可归, 未生成……)
+	sell_items: 待售物品:
+	item_filter_button: 筛选物品
+	exit_button: 关闭
+	sell_items_button: 售买物品
+	your_refund: 您的退款:
+}
+
+ItemFilters: {
+	filter_mage: 魔法
+	filter_melee: 近战
+	filter_ranged: 远程
+	filter_summon: 召唤
+	filter_armor: 盔甲
+	filter_vanity: 实装
+	filter_accessories: 饰品
+	filter_expert: 专家物品
+	filter_master: 大师物品
+	filter_ammo: 弹药
+	filter_place: 可放置
+	filter_mat: 材料
+	filter_heal: 回血物品
+	filter_mana: 回魔物品
+	filter_nonmat: 非材料
+	filter_consum: 消耗品
+	filter_pick: 镐
+	filter_axe: 斧
+	filter_ham: 锤
+	filter_curr: 自定货币
+	filter_research: 未研究
+	filter_all: 所有物品
+}
+
+Configs: {
+	ServerSideConfig: {
+		DisplayName: 服务器配置
+
+		usehappy: {
+			Label: 根据NPC幸福度决定物品价格
+			Tooltip: ""
+		}
+
+		freemode: {
+			Label: 忽略购买价格
+			Tooltip: 启用后玩家在购买物品时不消耗钱币
+		}
+
+		ignoreitemconditions: {
+			Label: 忽略购买条件
+			Tooltip: 启用后玩家在购买物品时不考虑条件
+		}
+
+		ignorenpcconditions: {
+			Label: 忽略NPC条件Ignore npc conditions
+			Tooltip: 启用后玩家在购买物品时不考虑NPC存活条件
+		}
+
+		itemblacklist: {
+			Label: 物品黑名单
+			Tooltip: 将物品添加至此处以无法从商店市场购买
+		}
+
+		npcblacklist: {
+			Label: NPC黑名单
+			Tooltip: 将NPC添加至此处以禁止在商店市场中从对应NPC购买物品
+		}
+	}
+
+	ClientConfig: {
+		DisplayName: 客户端配置
+
+		clearsearch: {
+			Label: 清空搜索记录
+			Tooltip: 关闭商店市场后清空历史搜索记录
+		}
+
+		clearamount: {
+			Label: 清空购买数量
+			Tooltip: 关闭商店市场后清空历史购买数量
+		}
+	}
+}
