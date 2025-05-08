@@ -1,0 +1,128 @@
+Items: {
+	TradingTable: {
+		DisplayName: Shop Market
+		Tooltip: The place where all npc's shop items are accessible
+	}
+
+	ShopMarketPortable: {
+		DisplayName: Portable Shop Market
+		Tooltip: For buying and selling items on the go! Right click in inventory for quick use.
+	}
+
+	TradingTableWallItem: {
+		DisplayName: Shop Market Wall Mount
+		Tooltip: The place where all npc's shop items are accessible but on the wall!
+	}
+}
+
+UserFeedback: {
+	Market_refresh: Refreshed market items
+	cant_purchase: Cannot purchase item
+	buy_fail_npc: because the npc
+	buy_fail_con: because the following conditions have not been met
+	Buy_fail_price: You cannot afford this item!
+	Config_fail: You are not the host! Try changing the config in single player
+	error_fullshop: Unable to put the shop market item into the travel merchant's shop. It is already full!
+	custom_con: Shop market has been offered
+	item_context: Purchased item from npc shop
+	npc_homeless: is homeless
+	npc_inactive: isn't spawned in
+}
+
+ShopUI: {
+	item_price: Item price:
+	your_money: Your money:
+	vendor_name: Vendor:
+	item_filter: item name
+	search_tip: @moditem, %modnpcitem, #tooltip, $npcname, &condition
+	buy_amount: buy amount
+	item_count1: Showing
+	item_count2: items
+	item_count3: from
+	item_count4: npcs
+	refresh_tip: Refresh market
+	item_con: Include items whose conditions aren't met
+	item_con_tip: Shows additional purchasable items whose conditions have not yet been met
+	npc_con: Include npcs whose conditions aren't met
+	npc_con_tip: Shows items from npcs whose conditions haven't been yet. (homeless, not spawned, etc..)
+	sell_items: Items to sell:
+	item_filter_button: Filter items
+	exit_button: Close
+	sell_items_button: Sell items
+	your_refund: Your refund:
+}
+
+ItemFilters: {
+	filter_mage: Magic
+	filter_melee: Melee
+	filter_ranged: Ranged
+	filter_summon: Summon
+	filter_armor: Armor
+	filter_vanity: Vanity
+	filter_accessories: Accessories
+	filter_expert: Expert items
+	filter_master: Master items
+	filter_ammo: Ammo
+	filter_place: Placeables
+	filter_mat: Materials
+	filter_heal: Heal items
+	filter_mana: Mana items
+	filter_nonmat: Non-materials
+	filter_consum: Consumables
+	filter_pick: Pickaxes
+	filter_axe: Axes
+	filter_ham: Hammers
+	filter_curr: Custom currency
+	filter_research: Unresearched
+	filter_all: All items
+}
+
+Configs: {
+	ServerSideConfig: {
+		DisplayName: Server Side Config
+
+		usehappy: {
+			Label: Factor NPC happiness in shop prices
+			Tooltip: ""
+		}
+
+		freemode: {
+			Label: Ignore item cost
+			Tooltip: If enabled, the player will not be charged when purchasing an item
+		}
+
+		ignoreitemconditions: {
+			Label: Ignore item conditions
+			Tooltip: If enabled, item conditions such as 'requires night' do NOT need to be met
+		}
+
+		ignorenpcconditions: {
+			Label: Ignore npc conditions
+			Tooltip: If enabled, npc conditions such as 'requires home or spawned in' do NOT need to be met
+		}
+
+		itemblacklist: {
+			Label: Item blacklist
+			Tooltip: Items added here will NOT be available for purchase in the shop market
+		}
+
+		npcblacklist: {
+			Label: NPC blacklist
+			Tooltip: NPCs added here will prevent that npc from having their items sold in the shop market
+		}
+	}
+
+	ClientConfig: {
+		DisplayName: Client Config
+
+		clearsearch: {
+			Label: Clear item search
+			Tooltip: Clears the item search textbox after closing the shop market
+		}
+
+		clearamount: {
+			Label: Clear buy amount
+			Tooltip: Clears the buy amount textbox after closing the shop market
+		}
+	}
+}
