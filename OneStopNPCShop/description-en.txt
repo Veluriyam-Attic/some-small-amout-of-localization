@@ -1,0 +1,15 @@
+The Shop Market is a mod that introduces a single item that allows you to access any npc's shop that is in your town and not homeless.
+The shop market can be bought from the travelling merchant.
+It has a 33% chance to be available.
+The portable version can be bought from the skeleton merchant as long as the travelling merchant has already offered the non-portable version first.
+The wall mounted version can be crafted from the standing version.
+You can also sell items at the shop market by shift-clicking the item with the market open.
+Sell price is determined by your least happiest npc.
+If you have any suggestions or bug reports, please report them on the steam workshop page or the discord server: https://discord.gg/SDThAjNpbM
+
+Special thanks goes to jopojelly for permitting to me use their source code for some UI elements.
+Special thanks goes to Ganpan14O for making the custom sprites.
+
+1.4.4.9+: The new shop system allows for the shop market to display all purchasable items even if the regular npc's shop is full. (excluding the travelling merchant)
+
+Like my mods? Consider supporting me here: Donate[www.buymeacoffee.com]

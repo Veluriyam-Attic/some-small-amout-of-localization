@@ -1,0 +1,19 @@
+商店市场[The Shop Market]Mod
+添加了一个物品，以允许你查看所有城镇NPC售卖的物品
+商店市场可以从旅商处购买
+它有33%的概率出现
+当旅商的商店售卖过商店市场，可以从骷髅商人处购买便携式版本
+挂置版本可以通过使用放置版本合成转化
+当商店市场打开时，你也可以通过按住Shift来售出物品
+售出价格取决于幸福度最低的NPC
+如果你有什么建议或者反馈Bug请在创意工坊页面留言或添加我们的discord：https://discord.gg/SDThAjNpbM
+
+特别感谢jopojelly允许我使用他的一些源代码来实现UI元素
+特别感谢Ganpan14O绘制的贴图
+
+1.4.4.9+: 新的系统允许查看所有可购买的物品，即使NPC的商店已经满了（不包括旅商）
+
+喜欢我的Mod？
+考虑捐赠一下吧：[url=https://www.buymeacoffee.com/jacklz] 捐赠 [/url]
+
+该页面中文本地化由[url=https://steamcommunity.com/profiles/76561199351410322]虞悖[/url]提供，反馈请至Q群[url=https://qm.qq.com/q/5wdAQBTpHa]909428503[/url]
